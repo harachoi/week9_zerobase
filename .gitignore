@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+zerobase-homework/.classpath
+zerobase-homework/.gradle/7.1/vcsMetadata-1/
+zerobase-homework/.project
+zerobase-homework/.settings/
+zerobase-homework/bin/
